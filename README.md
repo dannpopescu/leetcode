@@ -23,4 +23,4 @@ Note: Some problems have different solutions. The link points to the last one. T
 [Remove Element]: https://leetcode.com/problems/remove-element/
 [Friends of Appropriate Ages]: https://leetcode.com/problems/friends-of-appropriate-ages/
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
-[Remove Duplicates From Sorted Array II]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/
+[Remove Duplicates From Sorted Array II]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
