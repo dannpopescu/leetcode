@@ -1,23 +1,16 @@
 public class MergeSortedArrays {
 
     public void merge(int[] A, int m, int[] B, int n) {
-        int i = 0;
-        int j = 0;
+        int i = m - 1;
+        int j = n - 1;
+        int k = m + n - 1;
 
-        while (i < A.length && j < B.length) {
-            if (B[j] < A[i]) {
-                for (int k = m + j; k > i; k--) {
-                    A[k] = A[k - 1];
-                }
-                A[i] = B[j];
-                j++;
-            }
-            i++;
+        while (i >= 0 && j >= 0) {
+            A[k--] = (A[i] > B[j]) ? A[i--] : B[j--];
         }
 
-        while (j < B.length) {
-            A[m + j] = B[j];
-            j++;
+        while (j >= 0) {
+            A[k--] = B[j--];
         }
     }
 }
