@@ -6,16 +6,16 @@ Note: Some problems have different solutions. The link points to the last one. T
 |Problem|Solution|
 |-----|----|
 |[Merge Sorted Array]|[O(m+n)](src/MergeSortedArrays.java)|
-|[Squares of a Sorted Array]||
-|[Remove Duplicates From Sorted Array]||
+|[Squares of a Sorted Array]|[O(n)](src/SquaresOfASortedArray.java)|
+|[Remove Duplicates From Sorted Array]|[O(n)](src/RemoveDuplicatesFromSortedArray.java)|
 |[Remove Element]|[O(n)](src/RemoveElement.java)|
 |[Friends of Appropriate Ages]|[O(n log(n))](src/FriendsOfAppropriateAges.java), O(n<sup>2</sup>)|
 |[Move Zeroes]|[O(n)](src/MoveZeroes.java)|
 |[Remove Duplicates From Sorted Array II]|[O(n)](src/RemoveDuplicatesFromSortedArrayII.java)|
 |[Two Sum]|[O(n<sup>2</sup>)](src/TwoSum.java)|
 |[Container with Most Water]||
-|[Plus One]||
-|[Max Consecutive Ones]||
+|[Plus One]|[O(n)](src/PlusOne.java)|
+|[Max Consecutive Ones]|[O(n)](src/MaxConsecutiveOnes.java)|
 |[Find smallest letter greater than target]||
 |[Merge Intervals]||
 |[Global and local inversions]|[O(n)](src/GlobalAndLocalInversions.java), O(n<sup>2</sup>)|
