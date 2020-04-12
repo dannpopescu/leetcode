@@ -5,7 +5,7 @@ Note: Some problems have different solutions. The link points to the last one. T
 #### Arrays
 |Problem|Solution|
 |-----|----|
-|[Merge Sorted Array]||
+|[Merge Sorted Array]|[O(m+n)](src/MergeSortedArrays.java)|
 |[Squares of a Sorted Array]||
 |[Remove Duplicates From Sorted Array]||
 |[Remove Element]|[O(n)](src/RemoveElement.java)|
