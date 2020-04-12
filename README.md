@@ -9,9 +9,10 @@ Note: Some problems have different solutions. The link points to the last one. T
 |[Squares of a Sorted Array]||
 |[Remove Duplicates From Sorted Array]||
 |[Remove Element]|[O(n)](src/RemoveElement.java)|
-|[Friends of Appropriate Ages]|[O(n *log*n)](src/FriendsOfAppropriateAges.java), O(n<sup>2</sup>)|
+|[Friends of Appropriate Ages]|[O(n log(n))](src/FriendsOfAppropriateAges.java), O(n<sup>2</sup>)|
 |[Move Zeroes]|[O(n)](src/MoveZeroes.java)|
 |[Remove Duplicates From Sorted Array II]|[O(n)](src/RemoveDuplicatesFromSortedArrayII.java)|
+|[Two Sum]|[O(n<sup>2</sup>)](src/TwoSum.java)|
 
 
 
@@ -24,3 +25,4 @@ Note: Some problems have different solutions. The link points to the last one. T
 [Friends of Appropriate Ages]: https://leetcode.com/problems/friends-of-appropriate-ages/
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 [Remove Duplicates From Sorted Array II]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+[Two Sum]: https://leetcode.com/problems/two-sum/
