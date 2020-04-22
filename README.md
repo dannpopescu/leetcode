@@ -19,7 +19,7 @@ Note: Some problems have different solutions. The link points to the last one. T
 |[Find smallest letter greater than target]||
 |[Merge Intervals]||
 |[Global and local inversions]|[O(n)](src/GlobalAndLocalInversions.java), O(n<sup>2</sup>)|
-|[House robber]||
+|[House robber]|[O(n)](src/HouseRobberI.java)|
 
 
 
