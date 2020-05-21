@@ -1,8 +1,25 @@
 ### Solutions to LeetCode problems
 
-Note: Some problems have different solutions. The link points to the last one. To see all the solutions, look in the file's commit log.
+#### C18
+|Problem|Solution|
+|-----|-----|
+|Valid Perfect Square|[O(logn)](src/ValidPerfectSquare.java)|
+|Binary Search|[O(logn)](src/BinarySearch.java)|
+|Search in Rotated Sorted Array|[O(logn)](src/SearchInRotatedSorted.java)|
+|Guess Number Higher or Lower|[O(logn)](src/GuessNumberHigherOrLower.java)|
+|Sqrt|[O(logn)](src/Sqrt.java)|
+|Find First and Last Position of Element in Sorted Array|[O(logn)](src/FirstAndLastPositionInSortedArray.java)|
 
-#### Arrays
+#### C17
+* Search Insert Position: [O(logn)](src/SearchInsertPosition.java)
+
+#### C16
+* Keyboard Row : [here](src/KeyboardRow.java)
+* House Robber : [O(n)](src/HouseRobberI.java)
+
+
+<!--
+#### Other
 |Problem|Solution|
 |-----|----|
 |[Merge Sorted Array]|[O(m+n)](src/MergeSortedArrays.java)|
@@ -20,7 +37,7 @@ Note: Some problems have different solutions. The link points to the last one. T
 |[Merge Intervals]||
 |[Global and local inversions]|[O(n)](src/GlobalAndLocalInversions.java), O(n<sup>2</sup>)|
 |[House robber]|[O(n)](src/HouseRobberI.java)|
-
+-->
 
 
 <!-- Links to LeetCode Problems -->
@@ -39,6 +56,7 @@ Note: Some problems have different solutions. The link points to the last one. T
 [Merge Intervals]: https://leetcode.com/problems/merge-intervals/
 [Global and local inversions]: https://leetcode.com/problems/global-and-local-inversions/
 [House robber]: https://leetcode.com/problems/house-robber/
+[Keyboard row]: https://leetcode.com/problems/keyboard-row/
 
 [Reverse String]: https://leetcode.com/problems/reverse-string/
 [String to Integer]: https://leetcode.com/problems/string-to-integer-atoi/
