@@ -1,5 +1,15 @@
 ### Solutions to LeetCode problems
 
+#### C21
+* Remove Duplicates from Sorted List: [O(n)](src/RemoveDuplicatesFromSortedLinkedList.java)
+* Rotate Linked List: [O(n)](src/RotateLinkedList.java)
+* Merge Sorted Linked Lists: [O(n+m)](src/MergeSortedLinkedList.java)
+* Remove Duplicates from Sorted List II: [O(n)](src/RemoveDuplicatesFromSortedLinkedListII.java)
+* Middle of the Linked List: [O(n)](src/MiddleOfTheLinkedList.java)
+* Reverse Linked List: [O(n)](src/ReverseLinkedList.java)
+* Remove Linked List Elements: [O(n)](src/RemoveLinkedListElements.java)
+* Odd Even Linked List: [O(n)](src/OddEvenLinkedList.java)
+
 #### C18
 |Problem|Solution|
 |-----|-----|
@@ -14,8 +24,8 @@
 * Search Insert Position: [O(logn)](src/SearchInsertPosition.java)
 
 #### C16
-* Keyboard Row : [here](src/KeyboardRow.java)
-* House Robber : [O(n)](src/HouseRobberI.java)
+* Keyboard Row: [here](src/KeyboardRow.java)
+* House Robber: [O(n)](src/HouseRobberI.java)
 
 
 <!--
