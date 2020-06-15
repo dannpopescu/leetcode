@@ -1,5 +1,12 @@
 ### Solutions to LeetCode problems
 
+#### C23
+* Valid Parentheses: [O(n)](src/ValidParentheses.java)
+* Min Stack: [solution](src/MinStack.java)
+* Implement Stack Using Queues: [solution](src/ImplementStackUsingQueues.java)
+* Implement Queue Using Stack: [solution](src/ImplementQueueUsingStack.java)
+* Baseball Game: [O(n)](src/BaseballGame.java)
+
 #### C21
 * Remove Duplicates from Sorted List: [O(n)](src/RemoveDuplicatesFromSortedLinkedList.java)
 * Rotate Linked List: [O(n)](src/RotateLinkedList.java)
