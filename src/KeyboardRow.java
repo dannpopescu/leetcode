@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 /**
  * https://leetcode.com/problems/keyboard-row/
@@ -49,5 +50,33 @@ public class KeyboardRow {
             }
         }
         return true;
+    }
+
+    static class Solution2 {
+        public String[] findWords(String[] words) {
+            Set<Character> row1 = Set.of('q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p');
+            Set<Character> row2 = Set.of('a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l');
+            Set<Character> row3 = Set.of('z', 'x', 'c', 'v', 'b', 'n', 'm');
+
+            List<String> output = new ArrayList<>();
+
+            for (String word : words) {
+                List<Character> chars = stringToList(word);
+                if (row1.containsAll(chars) || row2.containsAll(chars) || row3.containsAll(chars)) {
+                    output.add(word);
+                }
+            }
+
+            return output.toArray(new String[0]);
+        }
+
+        public List<Character> stringToList(String string) {
+            string = string.toLowerCase();
+            List<Character> list = new ArrayList<>();
+            for (int i = 0; i < string.length(); i++) {
+                list.add(string.charAt(i));
+            }
+            return list;
+        }
     }
 }

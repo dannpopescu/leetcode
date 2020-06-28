@@ -1,5 +1,23 @@
 ### Solutions to LeetCode problems
 
+#### C27
+* Single Number: [O(n)](src/SingleNumber.java)
+* Jewels and Stones: [O(n+m)](src/JewelsAndStones.java)
+* Intersection of Two Arrays: [O(n+m)](src/IntersectionOfTwoArrays.java)
+* Keyboard Row: [solution](src/KeyboardRow.java)
+* Distribute Candies: [O(n)](src/DistributeCandies.java)
+* Contains Duplicate: [O(n)](src/ContainsDuplicate.java)
+
+#### C26
+* Valid Anagram: [O(n+m)](src/ValidAnagram.java)
+* Two Sum:  [O(n)](src/TwoSum.java)
+* Longest Substring Without Repeating Characters: [O(n)](src/LongestSubstringWithoutRepeatingCharacters.java)
+* First Unique Character in a String: [O(n)](src/FirstUniqueCharacterInString.java)
+* Longest Palindrome: [O(n)](src/LongestPalindrome.java)
+* Minimum Index Sum of Two Lists: [O(n+m)](src/MinimumIndexSumOfTwoLists.java)
+* Intersection Of Two Arrays II: [O(n+m)](src/IntersectionOfTwoArrays.java)
+* Design HashMap: [solution](src/MyHashMap.java)
+
 #### C23
 * Valid Parentheses: [O(n)](src/ValidParentheses.java)
 * Min Stack: [solution](src/MinStack.java)
